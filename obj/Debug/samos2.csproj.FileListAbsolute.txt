@@ -1,0 +1,8 @@
+C:\Users\1\source\repos\samos2\samos2\obj\Debug\samos2.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\samos2\samos2\obj\Debug\samos2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\samos2\samos2\bin\Debug\samos2.exe.config
+C:\Users\1\source\repos\samos2\samos2\bin\Debug\samos2.exe
+C:\Users\1\source\repos\samos2\samos2\bin\Debug\samos2.pdb
+C:\Users\1\source\repos\samos2\samos2\obj\Debug\samos2.exe
+C:\Users\1\source\repos\samos2\samos2\obj\Debug\samos2.pdb
+C:\Users\1\source\repos\samos2\samos2\obj\Debug\samos2.exe.config
